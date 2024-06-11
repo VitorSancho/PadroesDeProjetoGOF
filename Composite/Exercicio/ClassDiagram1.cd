@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Composite.Exercicio.Grupo" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Exercicio\Grupo.cs</FileName>
+      <NewMemberFileName>Exercicio\ItemQuestionario.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Composite.Exercicio.ItemQuestionario" Collapsed="true">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAABAAAAAAAABAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exercicio\ItemQuestionario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Composite.Exercicio.Questao" Collapsed="true">
+    <Position X="1.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exercicio\Questao.cs</FileName>
+      <NewMemberFileName>Exercicio\ItemQuestionario.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

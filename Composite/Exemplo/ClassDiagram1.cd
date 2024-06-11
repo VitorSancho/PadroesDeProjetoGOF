@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Composite.Exemplo.Funcionario">
+    <Position X="1" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exemplo\Funcionario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Composite.Exemplo.HoraTrabalhada">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Exemplo\HoraTrabalhada.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Composite.Exemplo.Organizacao">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAACAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exemplo\Organizacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
